@@ -4,6 +4,11 @@
 ### heroku url:
 https://protected-scrubland-27657.herokuapp.com
 
+### netlify url:
+[lukoncloud.netlify.app](https://lukoncloud.netlify.app/)
+
+### still debugging currently
+
 ## Description
 This is a ReactJS based personal portfolio website by applying several required techonolgies.
 
