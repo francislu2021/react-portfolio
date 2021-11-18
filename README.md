@@ -2,6 +2,7 @@
 
 ## 👇 WATCH THIS FIRST 👇
 ### heroku url:
+https://protected-scrubland-27657.herokuapp.com
 
 ## Description
 This is a ReactJS based personal portfolio website by applying several required techonolgies.
