@@ -7,6 +7,9 @@ https://protected-scrubland-27657.herokuapp.com
 ### netlify url:
 [lukoncloud.netlify.app](https://lukoncloud.netlify.app/)
 
+<img src="/screenshots/homepage.png/" alt="luk home page"/>
+
+
 ### still debugging currently
 
 ## Description
