@@ -1,0 +1,132 @@
+{
+    "main": {
+        "name": "Luk on Cloud",
+        "occupation": "database engineer going rogue on Cloud & Linux services! ",
+        "description": "Fullstack developer focus on Node.js, Express.js, MERN, AWS, GCP! Laisse-moi un courriel, je te répondrai plus tard",
+        "image": "luk.JPG",
+        "bio": "Hi, this is Luk from Ottawa. I am a trilingual database engineer fullstacker and on the way to be cloud architect. ",
+        "contactmessage": "Laisse-moi un courriel, je te répondrai plus tard. Don't worry, just drop me a message and i will reply later.",
+        "email": "lucchanqc@gmail.com",
+        "phone": "+1 416#123455",
+        "address": {
+            "street": "123 Seasame Street",
+            "city": "Ottawa",
+            "state": "Ontario",
+            "zip": "ABC 123"
+        },
+        "website": "https://www.instagram.com/shopaluk.ca/",
+        "resumedownload": "https://www.instagram.com/shopaluk.ca/",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.instagram.com/shopaluk.ca/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/shopaluk.ca/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://www.instagram.com/shopaluk.ca/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off",
+        "education": [{
+            "school": "Currently, University of Toronto, full-stack program",
+            "degree": "Masters in information technology",
+            "graduated": "January 2013",
+            "description": "Graduated with Distinction"
+        }],
+        "work": [{
+                "company": "Federal establishment",
+                "title": "Team leader of database development",
+                "years": "tell you later",
+                "description": "Working and developing various strategies of applying different database technologies to facilitate national wise network."
+            },
+            {
+                "company": "Global leading automobile corporation",
+                "title": "Data analyst",
+                "years": "tell you later",
+                "description": "Work on global sales, production data analytic systems."
+            }
+        ],
+        "skills": [{
+                "name": "NodeJs",
+                "level": "100%"
+            },
+            {
+                "name": "Javascript",
+                "level": "95%"
+            },
+            {
+                "name": "Agile management",
+                "level": "60%"
+            },
+            {
+                "name": "GCP VM & Application deployment",
+                "level": "70%"
+            },
+            {
+                "name": "AWS Beanstalk Application deployment & maintenance",
+                "level": "90%"
+            },
+            {
+                "name": "AWS integrated services- in learning",
+                "level": "50%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Fullstack project-Tech blog de Luk",
+                "category": "A fully functional blog website (Heroku, MongoDB, ExpressJS, Mysql2, Sequelize,Bulma, NodeJS)",
+                "image": "blog.png",
+                "url": "https://serene-dusk-66221.herokuapp.com/login"
+            },
+            {
+                "title": "MERN Stack Google book search engine",
+                "category": "This application allows user to search google books using Google Books API. User has the option to view the book on Google or save the book to view it sometime later. (Heroku, MongoDB, ExpressJS, ReactJS, NodeJS)",
+                "image": "mern.png",
+                "url": "https://gentle-anchorage-06159.herokuapp.com/"
+            },
+            {
+                "title": "PWA-budget tracker application",
+                "category": "PWA, heroku, Node.Js, Express.js, MongoDB, Mongoose ",
+                "image": "budgetracker.png",
+                "url": "https://frozen-tor-03398.herokuapp.com/"
+            },
+            {
+                "title": "free work scheduler for numerous social work organizations across Ontario",
+                "category": "simple Javascript on local browser storage tech",
+                "image": "workscheduler.png",
+                "url": "will provide a download link later"
+            },
+            {
+                "title": "free notes taker for numerous social work organizations across Ontario",
+                "category": "Node.js, heroku, express.js, mysql",
+                "image": "notetaker.png",
+                "url": "https://evening-citadel-69517.herokuapp.com/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Salut mon gars. I am very proud of what you have achieved so far. thanks for helping us with free accessible tools.",
+                "user": "Fabrice Roberge, director of one ontarien social work organization"
+            },
+            {
+                "text": "Hello Luk, thanks for you hard work and commitment. We highly appreciate your work and value that you have demonstrated throughout your work.",
+                "user": "Florence Vallerrié"
+            }
+        ]
+    }
+}
